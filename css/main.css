@@ -1,3 +1,5 @@
+
+
 /*--------------------------- Color variations ----------------------*/
 /* Medium Layout: 1280px */
 /* Tablet Layout: 768px */
@@ -51,7 +53,7 @@
 
 body {
   color: #777777;
-  font-family: "Poppins", sans-serif;
+  font-family: 'SUIT Variable', sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.625em;
@@ -118,20 +120,20 @@ a, a:focus, a:hover {
 
 h1, h2, h3,
 h4, h5, h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: 'SUIT Variable', sans-serif;
   color: #222222;
   line-height: 1.2em !important;
   margin-bottom: 0;
   margin-top: 0;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .h1, .h2, .h3,
 .h4, .h5, .h6 {
   margin-bottom: 0;
   margin-top: 0;
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-family: 'SUIT Variable', sans-serif;
+  font-weight: 800;
   color: #222222;
 }
 
@@ -1886,7 +1888,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(79, 87, 98, 0.8);
+  background: rgba(8, 9, 11, 0.8);
   transition: all 0.5s;
 }
 
@@ -2395,7 +2397,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .video-right {
-  background: url(../img/video-bg.jpg) no-repeat center;
+  /* background: url(../img/video-bg.jpg) no-repeat center; */
   background-size: cover;
   height: 350px;
   border-radius: 10px;
@@ -2449,7 +2451,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .review-area {
-  background-color: #869cac;
+  background-color: #111;
   color: #fff;
 }
 
@@ -2506,7 +2508,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 .single-blog .post-tags a:hover {
-  background-color: #869cac;
+  background-color: #222;
   color: #fff;
 }
 
