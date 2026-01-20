@@ -2495,7 +2495,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 12px;
   margin: 20px 0px;
   display: inline-block;
-  border: 1px solid #eee;
+  border: 1px solid #ccc;
   border-radius: 20px;
   padding: 4px 20px;
   -webkit-transition: all 0.3s ease 0s;

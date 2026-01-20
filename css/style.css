@@ -42,12 +42,12 @@
 }
 
 .img_hover2 img:hover {
-    box-shadow: 0.5px 3px 5px #ddd;
+    box-shadow: 0.5px 5px 6px #ddd;
 }
 
 .box_line img:hover {
     /* opacity: 0.9; */
-    box-shadow: 0.5px 3px 7px #bbb;
+    box-shadow: 0.5px -4px 6px #ccc;
 }
 
 
