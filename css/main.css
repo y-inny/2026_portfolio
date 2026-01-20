@@ -2448,6 +2448,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .gallery-area img {
   margin-bottom: 30px;
   width: 100%;
+  border-radius: 10px;
 }
 
 .review-area {
@@ -2527,6 +2528,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* padding-top: 220px; */
   background: url(../img/footer-bg.jpg) center;
   background-size: cover;
+  text-align: center;
+}
+
+.footer-area  .row {
+  display: flex;
+  justify-content: center;
 }
 
 .footer-area h6 {
